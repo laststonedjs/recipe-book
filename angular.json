@@ -132,6 +132,6 @@
       }
     }
   },
-  "defaultProject": "ng-complete-guide-update",
-  "project": "recipe-book.github.io"
+  "defaultProject": "recipe-book.github.io"
+
 }
